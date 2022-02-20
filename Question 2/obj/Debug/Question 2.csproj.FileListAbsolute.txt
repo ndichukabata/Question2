@@ -1,0 +1,6 @@
+D:\NDICHU\Technobrain\Question 2\Question 2\bin\Debug\Question 2.dll
+D:\NDICHU\Technobrain\Question 2\Question 2\bin\Debug\Question 2.pdb
+D:\NDICHU\Technobrain\Question 2\Question 2\obj\Debug\Question 2.csproj.AssemblyReference.cache
+D:\NDICHU\Technobrain\Question 2\Question 2\obj\Debug\Question 2.csproj.CoreCompileInputs.cache
+D:\NDICHU\Technobrain\Question 2\Question 2\obj\Debug\Question 2.dll
+D:\NDICHU\Technobrain\Question 2\Question 2\obj\Debug\Question 2.pdb

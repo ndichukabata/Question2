@@ -1,0 +1,16 @@
+D:\NDICHU\Technobrain\Question 2\Question 2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\NDICHU\Technobrain\Question 2\Question 2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\NDICHU\Technobrain\Question 2\Question 2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\NDICHU\Technobrain\Question 2\Question 2Tests\bin\Debug\Question 2Tests.dll
+D:\NDICHU\Technobrain\Question 2\Question 2Tests\bin\Debug\Question 2Tests.pdb
+D:\NDICHU\Technobrain\Question 2\Question 2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\NDICHU\Technobrain\Question 2\Question 2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\NDICHU\Technobrain\Question 2\Question 2Tests\bin\Debug\Question 2.dll
+D:\NDICHU\Technobrain\Question 2\Question 2Tests\bin\Debug\Question 2.pdb
+D:\NDICHU\Technobrain\Question 2\Question 2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\NDICHU\Technobrain\Question 2\Question 2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\NDICHU\Technobrain\Question 2\Question 2Tests\obj\Debug\Question 2Tests.csproj.AssemblyReference.cache
+D:\NDICHU\Technobrain\Question 2\Question 2Tests\obj\Debug\Question 2Tests.csproj.CoreCompileInputs.cache
+D:\NDICHU\Technobrain\Question 2\Question 2Tests\obj\Debug\Question 2Tests.csproj.CopyComplete
+D:\NDICHU\Technobrain\Question 2\Question 2Tests\obj\Debug\Question 2Tests.dll
+D:\NDICHU\Technobrain\Question 2\Question 2Tests\obj\Debug\Question 2Tests.pdb
